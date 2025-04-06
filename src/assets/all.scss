@@ -1,0 +1,4 @@
+@import "bootstrap/scss/functions";//為了將bootstrap的變數移為己用
+@import "./scss/variables";//從node裡面移出來的bootstrap變數設定檔
+@import "bootstrap/scss/bootstrap";
+@import "./scss/utilities";
